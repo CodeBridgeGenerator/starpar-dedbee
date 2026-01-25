@@ -1,0 +1,11 @@
+[
+    {
+        "parId": 1,
+        "appraisorId": 2,
+        "appraiseeId": 3,
+        "kpiScore": 78,
+        "competency": 82,
+        "totalScore": 80,
+        "status": "Pending Review"
+    }
+]

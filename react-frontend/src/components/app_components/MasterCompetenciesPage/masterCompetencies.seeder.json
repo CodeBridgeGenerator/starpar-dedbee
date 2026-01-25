@@ -1,0 +1,18 @@
+[
+    {
+        "departmentId": 1,
+        "name": "Job knowledge/Skills",
+        "description": "Aware of responsibilites, workflow, product knowledge and able to use the information to meet the requirements of the job",
+        "weight": 30,
+        "rate": 4,
+        "weightedScore": 1.2
+    },
+    {
+        "departmentId": 2,
+        "name": "Planning & Management",
+        "description": "Able to develop strategies or actions and manage resources effectively to achieve departmental/organizational goals",
+        "weight": 15,
+        "rate": 3,
+        "weightedScore": 0.45
+    }
+]

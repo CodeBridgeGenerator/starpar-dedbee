@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Cause for Concern",
+        "low": 0,
+        "high": 1
+    },
+    {
+        "name": "Below Par",
+        "low": 1,
+        "high": 2
+    },
+    {
+        "name": "Par",
+        "low": 2,
+        "high": 3
+    },
+    {
+        "name": "Meets Expectation",
+        "low": 3,
+        "high": 4
+    },
+    {
+        "name": "Exceeds",
+        "low": 4,
+        "high": 5
+    }
+]
