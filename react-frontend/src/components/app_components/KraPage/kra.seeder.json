@@ -1,0 +1,26 @@
+[
+    {
+        "parId": 1,
+        "appraisorId": 2,
+        "appraiseeId": 3,
+        "balancedScorecard": "Financial",
+        "kpi": "Deliver overall budget 2024 Revenue",
+        "weight": 20,
+        "target": 100,
+        "actualAchievement": 4,
+        "rate": 4,
+        "weightedRate": 0.8
+    },
+    {
+        "parId": 1,
+        "appraisorId": 2,
+        "appraiseeId": 4,
+        "balancedScorecard": "Financial",
+        "kpi": "Deliver Majority 7/7e and Majority Digital 2024 Budget",
+        "weight": 20,
+        "target": 100,
+        "actualAchievement": 4,
+        "rate": 4,
+        "weightedRate": 0.8
+    }
+]

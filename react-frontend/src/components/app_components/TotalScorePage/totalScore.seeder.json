@@ -1,0 +1,20 @@
+[
+    {
+        "parId": 1,
+        "appraisorId": 2,
+        "appraiseeId": 3,
+        "description": "Formula",
+        "rate": 1,
+        "weight": 2.3,
+        "weightedRate": 3.4
+    },
+    {
+        "parId": 1,
+        "appraisorId": 2,
+        "appraiseeId": 4,
+        "description": "Formula",
+        "rate": 1,
+        "weight": 2.3,
+        "weightedRate": 3.4
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "parId": 1,
+        "appraisorId": 2,
+        "appraiseeId": 3,
+        "kpi": "Some KPI",
+        "approved": true,
+        "approvedDate": 45940,
+        "kpiSetDate": 45940
+    },
+    {
+        "parId": 1,
+        "appraisorId": 2,
+        "appraiseeId": 4,
+        "kpi": "Some KPI",
+        "approved": false,
+        "approvedDate": 45941,
+        "kpiSetDate": 45941
+    }
+]
